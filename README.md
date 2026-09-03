@@ -16,7 +16,7 @@ This project is built with Python and is designed as a modular assistant that ca
 * 🧪 Separate test files for UI and voice functionality
 * 🔧 Easy to extend with new modules
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```text
 Jarvis/
